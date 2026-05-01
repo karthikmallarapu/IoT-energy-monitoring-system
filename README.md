@@ -19,3 +19,6 @@ This project monitors real-time electricity consumption using IoT technology. It
 ![Cloud](images/cloud_monitoring.jpeg)
 ![Result](images/final_output.jpeg)
 ![Serial Monitor](images/serial_monitor_output.jpeg)
+
+## Author
+Mallarapu Karthik
