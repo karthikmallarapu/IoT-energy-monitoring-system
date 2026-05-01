@@ -9,7 +9,7 @@ This project monitors real-time electricity consumption using IoT technology. It
 - Energy usage analysis
 
 ## Technologies Used
-- Arduino
+- ESP32
 - Sensors
 - IoT Platform
 
