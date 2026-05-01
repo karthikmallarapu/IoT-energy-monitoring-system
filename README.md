@@ -15,6 +15,7 @@ This project monitors real-time electricity consumption using IoT technology. It
 
 ## Output
 
-![Circuit](images/circuit_diagram.jpg)
-![Cloud](images/cloud_monitoring.jpg)
-![Result](images/final_output.jpg)
+![Circuit](images/circuit_design.jpeg)
+![Cloud](images/cloud_monitoring.jpeg)
+![Result](images/final_output.jpeg)
+![Serial Monitor](images/serial_monitor_output.jpeg)
